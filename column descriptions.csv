@@ -1,0 +1,161 @@
+column_name,column_descriptions
+id,Unique customer identifier
+circle_id,Telecom service region identifier
+arpu_6,Average revenue per user in June
+arpu_7,Average revenue per user in July
+arpu_8,Average revenue per user in August
+arpu_2g_6,2G revenue in June
+arpu_2g_7,2G revenue in July
+arpu_2g_8,2G revenue in August
+arpu_3g_6,3G revenue in June
+arpu_3g_7,3G revenue in July
+arpu_3g_8,3G revenue in August
+total_og_mou_6,Total outgoing call minutes in June
+total_og_mou_7,Total outgoing call minutes in July
+total_og_mou_8,Total outgoing call minutes in August
+total_ic_mou_6,Total incoming call minutes in June
+total_ic_mou_7,Total incoming call minutes in July
+total_ic_mou_8,Total incoming call minutes in August
+onnet_mou_6,Outgoing minutes to same network in June
+onnet_mou_7,Outgoing minutes to same network in July
+onnet_mou_8,Outgoing minutes to same network in August
+offnet_mou_6,Outgoing minutes to other networks in June
+offnet_mou_7,Outgoing minutes to other networks in July
+offnet_mou_8,Outgoing minutes to other networks in August
+loc_og_t2t_mou_6,Local outgoing minutes to same network in June
+loc_og_t2t_mou_7,Local outgoing minutes to same network in July
+loc_og_t2t_mou_8,Local outgoing minutes to same network in August
+loc_og_t2m_mou_6,Local outgoing minutes to mobile in June
+loc_og_t2m_mou_7,Local outgoing minutes to mobile in July
+loc_og_t2m_mou_8,Local outgoing minutes to mobile in August
+loc_og_t2f_mou_6,Local outgoing minutes to fixed line in June
+loc_og_t2f_mou_7,Local outgoing minutes to fixed line in July
+loc_og_t2f_mou_8,Local outgoing minutes to fixed line in August
+loc_og_t2c_mou_6,Local outgoing minutes to customer care in June
+loc_og_t2c_mou_7,Local outgoing minutes to customer care in July
+loc_og_t2c_mou_8,Local outgoing minutes to customer care in August
+loc_og_mou_6,Total local outgoing minutes in June
+loc_og_mou_7,Total local outgoing minutes in July
+loc_og_mou_8,Total local outgoing minutes in August
+std_og_t2t_mou_6,STD outgoing minutes to same network in June
+std_og_t2t_mou_7,STD outgoing minutes to same network in July
+std_og_t2t_mou_8,STD outgoing minutes to same network in August
+std_og_t2m_mou_6,STD outgoing minutes to mobile in June
+std_og_t2m_mou_7,STD outgoing minutes to mobile in July
+std_og_t2m_mou_8,STD outgoing minutes to mobile in August
+std_og_t2f_mou_6,STD outgoing minutes to fixed line in June
+std_og_t2f_mou_7,STD outgoing minutes to fixed line in July
+std_og_t2f_mou_8,STD outgoing minutes to fixed line in August
+std_og_mou_6,Total STD outgoing minutes in June
+std_og_mou_7,Total STD outgoing minutes in July
+std_og_mou_8,Total STD outgoing minutes in August
+isd_og_mou_6,International outgoing minutes in June
+isd_og_mou_7,International outgoing minutes in July
+isd_og_mou_8,International outgoing minutes in August
+spl_og_mou_6,Special outgoing minutes in June
+spl_og_mou_7,Special outgoing minutes in July
+spl_og_mou_8,Special outgoing minutes in August
+og_others_6,Other outgoing minutes in June
+og_others_7,Other outgoing minutes in July
+og_others_8,Other outgoing minutes in August
+roam_og_mou_6,Roaming outgoing minutes in June
+roam_og_mou_7,Roaming outgoing minutes in July
+roam_og_mou_8,Roaming outgoing minutes in August
+roam_ic_mou_6,Roaming incoming minutes in June
+roam_ic_mou_7,Roaming incoming minutes in July
+roam_ic_mou_8,Roaming incoming minutes in August
+loc_ic_t2t_mou_6,Local incoming minutes from same network in June
+loc_ic_t2t_mou_7,Local incoming minutes from same network in July
+loc_ic_t2t_mou_8,Local incoming minutes from same network in August
+loc_ic_t2m_mou_6,Local incoming minutes from mobile in June
+loc_ic_t2m_mou_7,Local incoming minutes from mobile in July
+loc_ic_t2m_mou_8,Local incoming minutes from mobile in August
+loc_ic_t2f_mou_6,Local incoming minutes from fixed line in June
+loc_ic_t2f_mou_7,Local incoming minutes from fixed line in July
+loc_ic_t2f_mou_8,Local incoming minutes from fixed line in August
+loc_ic_mou_6,Total local incoming minutes in June
+loc_ic_mou_7,Total local incoming minutes in July
+loc_ic_mou_8,Total local incoming minutes in August
+std_ic_t2t_mou_6,STD incoming minutes from same network in June
+std_ic_t2t_mou_7,STD incoming minutes from same network in July
+std_ic_t2t_mou_8,STD incoming minutes from same network in August
+std_ic_t2m_mou_6,STD incoming minutes from mobile in June
+std_ic_t2m_mou_7,STD incoming minutes from mobile in July
+std_ic_t2m_mou_8,STD incoming minutes from mobile in August
+std_ic_t2f_mou_6,STD incoming minutes from fixed line in June
+std_ic_t2f_mou_7,STD incoming minutes from fixed line in July
+std_ic_t2f_mou_8,STD incoming minutes from fixed line in August
+std_ic_mou_6,Total STD incoming minutes in June
+std_ic_mou_7,Total STD incoming minutes in July
+std_ic_mou_8,Total STD incoming minutes in August
+isd_ic_mou_6,International incoming minutes in June
+isd_ic_mou_7,International incoming minutes in July
+isd_ic_mou_8,International incoming minutes in August
+ic_others_6,Other incoming minutes in June
+ic_others_7,Other incoming minutes in July
+ic_others_8,Other incoming minutes in August
+total_rech_num_6,Total recharge count in June
+total_rech_num_7,Total recharge count in July
+total_rech_num_8,Total recharge count in August
+total_rech_amt_6,Total recharge amount in June
+total_rech_amt_7,Total recharge amount in July
+total_rech_amt_8,Total recharge amount in August
+max_rech_amt_6,Maximum recharge amount in June
+max_rech_amt_7,Maximum recharge amount in July
+max_rech_amt_8,Maximum recharge amount in August
+last_day_rch_amt_6,Recharge amount on last day of June
+last_day_rch_amt_7,Recharge amount on last day of July
+last_day_rch_amt_8,Recharge amount on last day of August
+vol_2g_mb_6,2G data usage in MB in June
+vol_2g_mb_7,2G data usage in MB in July
+vol_2g_mb_8,2G data usage in MB in August
+vol_3g_mb_6,3G data usage in MB in June
+vol_3g_mb_7,3G data usage in MB in July
+vol_3g_mb_8,3G data usage in MB in August
+total_rech_data_6,Data recharge count in June
+total_rech_data_7,Data recharge count in July
+total_rech_data_8,Data recharge count in August
+max_rech_data_6,Maximum data recharge in June
+max_rech_data_7,Maximum data recharge in July
+max_rech_data_8,Maximum data recharge in August
+count_rech_2g_6,2G recharge count in June
+count_rech_2g_7,2G recharge count in July
+count_rech_2g_8,2G recharge count in August
+count_rech_3g_6,3G recharge count in June
+count_rech_3g_7,3G recharge count in July
+count_rech_3g_8,3G recharge count in August
+av_rech_amt_data_6,Average data recharge amount in June
+av_rech_amt_data_7,Average data recharge amount in July
+av_rech_amt_data_8,Average data recharge amount in August
+monthly_2g_6,Monthly 2G pack purchases in June
+monthly_2g_7,Monthly 2G pack purchases in July
+monthly_2g_8,Monthly 2G pack purchases in August
+monthly_3g_6,Monthly 3G pack purchases in June
+monthly_3g_7,Monthly 3G pack purchases in July
+monthly_3g_8,Monthly 3G pack purchases in August
+sachet_2g_6,Sachet 2G pack purchases in June
+sachet_2g_7,Sachet 2G pack purchases in July
+sachet_2g_8,Sachet 2G pack purchases in August
+sachet_3g_6,Sachet 3G pack purchases in June
+sachet_3g_7,Sachet 3G pack purchases in July
+sachet_3g_8,Sachet 3G pack purchases in August
+night_pck_user_6,Night data pack user indicator in June
+night_pck_user_7,Night data pack user indicator in July
+night_pck_user_8,Night data pack user indicator in August
+fb_user_6,Facebook pack user indicator in June
+fb_user_7,Facebook pack user indicator in July
+fb_user_8,Facebook pack user indicator in August
+jun_vbc_3g,3G VBC usage in June
+jul_vbc_3g,3G VBC usage in July
+aug_vbc_3g,3G VBC usage in August
+last_date_of_month_6,Last active date in June
+last_date_of_month_7,Last active date in July
+last_date_of_month_8,Last active date in August
+date_of_last_rech_6,Date of last recharge in June
+date_of_last_rech_7,Date of last recharge in July
+date_of_last_rech_8,Date of last recharge in August
+date_of_last_rech_data_6,Date of last data recharge in June
+date_of_last_rech_data_7,Date of last data recharge in July
+date_of_last_rech_data_8,Date of last data recharge in August
+aon,Age on network in days
+churn_probability,Customer churn indicator (1 churned 0 retained)
